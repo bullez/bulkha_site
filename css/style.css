@@ -46,6 +46,25 @@
     
 }
 
+.text{
+    position: absolute;
+    width: 650px;
+    height: 212px;
+    left: 270px;
+    top: 222px;
+    z-index: 1;
+
+
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 69px;
+    line-height: 83px;
+    text-align: center;
+
+    color: #000000;
+}
+
 .intro{
     position: absolute;
     height: 600px;
